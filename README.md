@@ -7,3 +7,6 @@
 
 ## React App
 ### `yarn start`
+
+## Test
+### `yarn test`
